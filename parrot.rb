@@ -2,5 +2,4 @@
 # returns the phrase
 def parrot(string)
 string = "Squawk!"
-return string
 end
